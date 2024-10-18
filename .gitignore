@@ -6,3 +6,6 @@
 /out
 *.iml
 *.log
+target/
+.idea/
+.idea
